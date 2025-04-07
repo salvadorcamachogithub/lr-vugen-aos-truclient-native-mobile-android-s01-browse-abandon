@@ -11,7 +11,7 @@ This script was created with best practices, so it is more resilient, such as:
 * Think times at the end of each transaction to better simulate user behavior
 * deviceID parametrized
 
-This script goes to the Laptops category, goes to a product, adds it to the cart and then goes back to Home
+This script goes to the Laptops category, goes to a product, adds it to the cart and then goes back to Home, there is an iOS script that does the same exact steps
 
 Runtime Settings were set to log only on errors and generate snapshot on errors, think times set to random from 15 seconds to 25 seconds
 
